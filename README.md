@@ -1,3 +1,7 @@
+
+![calsi](https://user-images.githubusercontent.com/36782859/51082057-4a57af00-1725-11e9-96c6-c6c585617c26.png)
+
+
 # Calculator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0.
